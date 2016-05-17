@@ -1,3 +1,4 @@
+王德强
 <!-- Js中sort()方法的用法 -->
 sort()方法返回一个元素已经进行了排序的 Array 对象。 
 arrayobj.sort(sortfunction)  
